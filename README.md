@@ -24,7 +24,8 @@ Study Hours
 Attendance %
 
 Assignment Score
-... and instantly get their predicted performance!
+
+and instantly get their predicted performance!
 
 💡 This tool can be useful for:
 
